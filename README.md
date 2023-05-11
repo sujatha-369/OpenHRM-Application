@@ -1,2 +1,2 @@
 # OpenHRM-Application
-Its Industry Based project in Selenium with Java
+Its HRM application Industry Based Testing project in Selenium with Java

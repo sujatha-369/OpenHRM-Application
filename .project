@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>OpenHRMApplication</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>log4j.properties</name>
+			<type>1</type>
+			<location>C:/Suji/Live Project SeleniumJava/OpenHRMApplication/log4j.properties</location>
+		</link>
+		<link>
+			<name>src/HRMTestNG.xml</name>
+			<type>1</type>
+			<location>C:/Suji/Live Project SeleniumJava/OpenHRMApplication/HRMTestNG.xml</location>
+		</link>
+		<link>
+			<name>src/XMLFirstPro.xml</name>
+			<type>1</type>
+			<location>C:/Suji/workspace/XMLFirstPro.xml</location>
+		</link>
+	</linkedResources>
+</projectDescription>
